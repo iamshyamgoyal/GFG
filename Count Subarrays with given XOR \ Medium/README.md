@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/count-subarrays-with-xor-k/">Count Subarrays with XOR k</a></h2> 
+<h2><a href="https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1">Count Subarrays with XOR k</a></h2> 
 <h3>Difficulty Level : Medium</h3> <hr> <div class="problems_problem_content__Xm_eO"> 
   <p><span style="font-size: 18px;">Given an array of integers <code>arr[]</code> and a number <code>k</code>, count the number of subarrays whose XOR of elements equals <code>k</code>.</span></p> 
   <p><span style="font-size: 18px;"><strong>Examples:</strong></span></p> 
